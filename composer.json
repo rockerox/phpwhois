@@ -1,0 +1,7 @@
+{
+    "name": "rockerox/phpwhois",
+    "type": "library",
+    "description": "Whois for PHP",
+    "keywords": ["whois"],
+    "minimum-stability": "dev"
+}
